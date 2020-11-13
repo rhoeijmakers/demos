@@ -2,26 +2,26 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>images on Demo</title>
-    <link>https://example.com/tags/images/</link>
+    <link>https://rhoeijmakers.github.io/demos/tags/images/</link>
     <description>Recent content in images on Demo</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 12 Nov 2020 12:15:02 +0000</lastBuildDate><atom:link href="https://example.com/tags/images/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 12 Nov 2020 12:15:02 +0000</lastBuildDate><atom:link href="https://rhoeijmakers.github.io/demos/tags/images/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Browser image support</title>
-      <link>https://example.com/posts/imagesupport/</link>
+      <link>https://rhoeijmakers.github.io/demos/posts/imagesupport/</link>
       <pubDate>Thu, 12 Nov 2020 12:15:02 +0000</pubDate>
       
-      <guid>https://example.com/posts/imagesupport/</guid>
+      <guid>https://rhoeijmakers.github.io/demos/posts/imagesupport/</guid>
       <description>Does my browser support WebP and/or AVIF A quick check to see if your browser or application supports modern image formats. WebP If the browser supports WebP the label on the image will indicate this and a green check will be shown. If the image label says WebP the browser supports the format, when the label says JPG the browser does not support and falls back on JPG. A red cross appears.</description>
     </item>
     
     <item>
       <title>Native lazy loading!</title>
-      <link>https://example.com/posts/lazyloading/</link>
+      <link>https://rhoeijmakers.github.io/demos/posts/lazyloading/</link>
       <pubDate>Thu, 27 Dec 2018 21:09:45 +0100</pubDate>
       
-      <guid>https://example.com/posts/lazyloading/</guid>
+      <guid>https://rhoeijmakers.github.io/demos/posts/lazyloading/</guid>
       <description> if (&#39;loading&#39; in HTMLImageElement.prototype) { // Browser supports `loading`.. console.log(&#34;Lazy&#34;); } else { // Fetch and apply a polyfill/JavaScript library // for lazy-loading instead. console.log(&#34;No Lazy&#34;); }  Lazy loading Summer Autumn Winter Spring </description>
     </item>
     
