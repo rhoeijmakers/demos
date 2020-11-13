@@ -39,12 +39,13 @@
     </item>
     
     <item>
-      <title>Native lazy loading!</title>
+      <title>Native lazy loading</title>
       <link>https://rhoeijmakers.github.io/demos/posts/lazyloading/</link>
       <pubDate>Thu, 27 Dec 2018 21:09:45 +0100</pubDate>
       
       <guid>https://rhoeijmakers.github.io/demos/posts/lazyloading/</guid>
-      <description> if (&#39;loading&#39; in HTMLImageElement.prototype) { // Browser supports `loading`.. console.log(&#34;Lazy&#34;); } else { // Fetch and apply a polyfill/JavaScript library // for lazy-loading instead. console.log(&#34;No Lazy&#34;); }  Lazy loading Summer Autumn Winter Spring </description>
+      <description> if (&#39;loading&#39; in HTMLImageElement.prototype) { // Browser supports `loading`.. console.log(&#34;Lazy&#34;); } else { // Fetch and apply a polyfill/JavaScript library // for lazy-loading instead. console.log(&#34;No Lazy&#34;); }  Lazy loading Some browsers now have native lazy loading. Here is an example.
+Summer Autumn Winter Spring </description>
     </item>
     
   </channel>
