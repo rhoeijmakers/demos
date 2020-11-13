@@ -1,0 +1,8 @@
+baseURL = "https://example.com"
+languageCode = "en-us"
+title = "Demo"
+theme = "mixedpaper"
+enableRobotsTXT = true
+paginate = 3 # Set the number of posts to show before overflowing to the next page
+pygmentsUseClasses = true
+publishDir = "docs"
