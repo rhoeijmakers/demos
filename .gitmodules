@@ -4,6 +4,3 @@
 [submodule "themes/ramium"]
 	path = themes/ramium
 	url = https://github.com/rafed/ramium.git
-[submodule "themes/mixedpaper"]
-	path = themes/mixedpaper
-	url = https://github.com/wayjam/hugo-theme-mixedpaper.git
