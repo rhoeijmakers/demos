@@ -1,1 +1,70 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml"><url><loc>https://rhoeijmakers.github.io/demos/posts/imagesupport/</loc><lastmod>2020-11-12T12:15:02+00:00</lastmod></url><url><loc>https://rhoeijmakers.github.io/demos/</loc><lastmod>2020-11-12T12:15:02+00:00</lastmod></url><url><loc>https://rhoeijmakers.github.io/demos/tags/images/</loc><lastmod>2020-11-12T12:15:02+00:00</lastmod></url><url><loc>https://rhoeijmakers.github.io/demos/posts/</loc><lastmod>2020-11-12T12:15:02+00:00</lastmod></url><url><loc>https://rhoeijmakers.github.io/demos/tags/</loc><lastmod>2020-11-12T12:15:02+00:00</lastmod></url><url><loc>https://rhoeijmakers.github.io/demos/tags/preview/</loc><lastmod>2020-05-30T16:01:23+08:00</lastmod></url><url><loc>https://rhoeijmakers.github.io/demos/tags/syntax-highlighting/</loc><lastmod>2020-05-30T16:01:23+08:00</lastmod></url><url><loc>https://rhoeijmakers.github.io/demos/posts/syntax/</loc><lastmod>2020-05-30T16:01:23+08:00</lastmod></url><url><loc>https://rhoeijmakers.github.io/demos/tags/tag-5/</loc><lastmod>2020-05-30T16:01:23+08:00</lastmod></url><url><loc>https://rhoeijmakers.github.io/demos/about/</loc><lastmod>2019-05-28T00:00:00+00:00</lastmod></url></urlset>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://demo.niksen.site/posts/imagesupport/</loc>
+    <lastmod>2020-11-12T12:15:02+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://demo.niksen.site/</loc>
+    <lastmod>2020-11-12T12:15:02+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://demo.niksen.site/tags/images/</loc>
+    <lastmod>2020-11-12T12:15:02+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://demo.niksen.site/posts/</loc>
+    <lastmod>2020-11-12T12:15:02+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://demo.niksen.site/tags/</loc>
+    <lastmod>2020-11-12T12:15:02+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://demo.niksen.site/tags/fonts/</loc>
+    <lastmod>2020-10-27T21:09:45+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://demo.niksen.site/posts/svg/</loc>
+    <lastmod>2020-10-27T21:09:45+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://demo.niksen.site/tags/preview/</loc>
+    <lastmod>2020-05-30T16:01:23+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://demo.niksen.site/tags/syntax-highlighting/</loc>
+    <lastmod>2020-05-30T16:01:23+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://demo.niksen.site/posts/syntax/</loc>
+    <lastmod>2020-05-30T16:01:23+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://demo.niksen.site/tags/tag-5/</loc>
+    <lastmod>2020-05-30T16:01:23+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://demo.niksen.site/posts/lazyloading/</loc>
+    <lastmod>2019-12-27T21:09:45+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://demo.niksen.site/about/</loc>
+    <lastmod>2019-05-28T00:00:00+00:00</lastmod>
+  </url>
+  
+</urlset>

@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>fonts on Demo</title>
-    <link>https://rhoeijmakers.github.io/demos/tags/fonts/</link>
+    <link>https://demo.niksen.site/tags/fonts/</link>
     <description>Recent content in fonts on Demo</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 27 Dec 2019 21:09:45 +0100</lastBuildDate><atom:link href="https://rhoeijmakers.github.io/demos/tags/fonts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 27 Oct 2020 21:09:45 +0100</lastBuildDate><atom:link href="https://demo.niksen.site/tags/fonts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>SVG</title>
-      <link>https://rhoeijmakers.github.io/demos/posts/svg/</link>
-      <pubDate>Fri, 27 Dec 2019 21:09:45 +0100</pubDate>
+      <link>https://demo.niksen.site/posts/svg/</link>
+      <pubDate>Tue, 27 Oct 2020 21:09:45 +0100</pubDate>
       
-      <guid>https://rhoeijmakers.github.io/demos/posts/svg/</guid>
+      <guid>https://demo.niksen.site/posts/svg/</guid>
       <description>Currently at the time of writing, we would recommend you to go with &amp;lt;img&amp;gt; tags as the simplest option and &amp;lt;object&amp;gt; tags only if you require interactivity in your graphics. Avoid Inline SVG in order to be indexed in Google Image.
 1. SVG images 2. Img tag in object tag  3. Embedded in HTML 5 SVG tag .cls-1,.cls-2,.cls-3,.cls-4{fill:none;stroke-miterlimit:10;stroke-width:8px;}.cls-1{stroke:#52b0bf;}.cls-2{stroke:#a3cc83;}.cls-3{stroke:#e7bb03;}.cls-4{stroke:#f5a488;}.cls-5{fill:#43433d;} Embedded SVG with attribute sizing and coloring     </description>
     </item>

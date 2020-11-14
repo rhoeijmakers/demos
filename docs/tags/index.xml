@@ -1,1 +1,56 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Tags on Demo</title><link>https://rhoeijmakers.github.io/demos/tags/</link><description>Recent content in Tags on Demo</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Thu, 12 Nov 2020 12:15:02 +0000</lastBuildDate><atom:link href="https://rhoeijmakers.github.io/demos/tags/index.xml" rel="self" type="application/rss+xml"/><item><title>images</title><link>https://rhoeijmakers.github.io/demos/tags/images/</link><pubDate>Thu, 12 Nov 2020 12:15:02 +0000</pubDate><guid>https://rhoeijmakers.github.io/demos/tags/images/</guid><description/></item><item><title>preview</title><link>https://rhoeijmakers.github.io/demos/tags/preview/</link><pubDate>Sat, 30 May 2020 16:01:23 +0800</pubDate><guid>https://rhoeijmakers.github.io/demos/tags/preview/</guid><description/></item><item><title>Syntax Highlighting</title><link>https://rhoeijmakers.github.io/demos/tags/syntax-highlighting/</link><pubDate>Sat, 30 May 2020 16:01:23 +0800</pubDate><guid>https://rhoeijmakers.github.io/demos/tags/syntax-highlighting/</guid><description/></item><item><title>tag-5</title><link>https://rhoeijmakers.github.io/demos/tags/tag-5/</link><pubDate>Sat, 30 May 2020 16:01:23 +0800</pubDate><guid>https://rhoeijmakers.github.io/demos/tags/tag-5/</guid><description/></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Demo</title>
+    <link>https://demo.niksen.site/tags/</link>
+    <description>Recent content in Tags on Demo</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 12 Nov 2020 12:15:02 +0000</lastBuildDate><atom:link href="https://demo.niksen.site/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>images</title>
+      <link>https://demo.niksen.site/tags/images/</link>
+      <pubDate>Thu, 12 Nov 2020 12:15:02 +0000</pubDate>
+      
+      <guid>https://demo.niksen.site/tags/images/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>fonts</title>
+      <link>https://demo.niksen.site/tags/fonts/</link>
+      <pubDate>Tue, 27 Oct 2020 21:09:45 +0100</pubDate>
+      
+      <guid>https://demo.niksen.site/tags/fonts/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>preview</title>
+      <link>https://demo.niksen.site/tags/preview/</link>
+      <pubDate>Sat, 30 May 2020 16:01:23 +0800</pubDate>
+      
+      <guid>https://demo.niksen.site/tags/preview/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Syntax Highlighting</title>
+      <link>https://demo.niksen.site/tags/syntax-highlighting/</link>
+      <pubDate>Sat, 30 May 2020 16:01:23 +0800</pubDate>
+      
+      <guid>https://demo.niksen.site/tags/syntax-highlighting/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>tag-5</title>
+      <link>https://demo.niksen.site/tags/tag-5/</link>
+      <pubDate>Sat, 30 May 2020 16:01:23 +0800</pubDate>
+      
+      <guid>https://demo.niksen.site/tags/tag-5/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
