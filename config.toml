@@ -1,4 +1,4 @@
-baseURL = "https://demorob.netlify.app"
+baseURL = "https://demo.niksen.site"
 languageCode = "en-us"
 title = "Demo"
 theme = "mixedpaper"
@@ -22,4 +22,3 @@ identifier = "tags"
 name = "Tags"
 url = "tags/"
 weight = 2
-
