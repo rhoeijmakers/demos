@@ -1,4 +1,4 @@
-baseURL = "https://rhoeijmakers.github.io/demos/"
+baseURL = "https://demorob.netlify.app"
 languageCode = "en-us"
 title = "Demo"
 theme = "mixedpaper"
