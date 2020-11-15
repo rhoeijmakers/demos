@@ -1,11 +1,16 @@
 baseURL = "https://demo.niksen.site"
 languageCode = "en-us"
 title = "Demo"
+description = "Demos by Niksen"
 theme = "mixedpaper"
 enableRobotsTXT = true
 paginate = 3 # Set the number of posts to show before overflowing to the next page
 pygmentsUseClasses = true
 publishDir = "docs"
+
+[params]
+  author = "Robert Hoeijmakers"
+  description = "Demos by Niksen."
 
 [taxonomies]
 tag = "tags"

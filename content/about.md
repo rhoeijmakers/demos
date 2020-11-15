@@ -2,6 +2,7 @@
 date: 2019-05-28
 type: section
 title: "About"
+description: "About Hugo and this Niksen demo site"
 ---
 
 Written in Go, Hugo is an open source static site generator available under the [Apache License 2.0](https://github.com/gohugoio/hugo/blob/master/LICENSE). Hugo supports TOML, YAML, and JSON data file types, Markdown and HTML content files and uses shortcodes to add rich content. Other notable features are taxonomies, multilingual mode, image processing, custom output formats, HTML/CSS/JS minification and support for Sass SCSS workflows.
@@ -21,4 +22,3 @@ Hugo is for people who want to hand code their own website without worrying abou
 Websites built with Hugo are extremelly fast, secure and can be deployed anywhere including, AWS, GitHub Pages, Heroku, Netlify and any other hosting provider.
 
 Learn more and contribute on [GitHub](https://github.com/gohugoio).
-
