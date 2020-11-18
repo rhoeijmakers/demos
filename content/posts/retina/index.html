@@ -37,7 +37,7 @@ Small excercise in how to work with retina images in HTML.
  </pre>
 
 
-<h2>Img and srcset</h2>
+<h2>Img, srcset and x</h2>
 <p>This code picks a fixed image. It depends on the sort of screen. When the screen is a retina it will display the image with the 2x indication. The image is then displayed at halve the pixel size. So in this case the browser will choose the 1000 px image and display it with width 500px.</p>
 <img srcset="
   retina-4000px.jpg 4x,
@@ -54,5 +54,21 @@ src="retina.jpg" >
   retina-1000px.jpg 2x,
   retina-500px.jpg 1x "
 src="retina.jpg" &gt;
+ </code>
+</pre>
+
+
+
+<h2>Img, srcset and w</h2>
+
+<img srcset="
+  sea-4000px.jpg 1600w,
+  sea-2000px.jpg 1000w,
+  sea-1000px.jpg 500w,
+src="sea.jpg" >
+
+<pre>
+  <code>
+
  </code>
 </pre>
