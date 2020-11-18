@@ -1,0 +1,33 @@
+---
+title: "Retina images"
+description: "Learning on retina image html source."
+date: 2020-11-18T21:09:45+01:00
+publishDate: 2020-11-18T14:09:45+01:00
+author: "Robert Hoeijmakers"
+images: []
+tags:
+- website
+- webdevelopment
+- images
+---
+<h1> Retina images </h1>
+Small excercise in how to work with retina images in HTML.
+
+<h2>Picture and source</h2>
+
+<picture>
+  <source media="(min-width:1000px)" srcset="sea-4000px.jpg">
+  <source media="(min-width:650px)" srcset="sea-2000px.jpg">
+  <source media="(min-width:465px)" srcset="sea-1000px.jpg">
+  <source media="(max-width:465px)" srcset="sea-500px.jpg">
+  <img src="sea.jpg" alt="Sea" style="width:auto;">
+</picture>
+
+<h2>Img and srcset</h2>
+
+<img srcset="
+  retina-4000px.jpg 4x,
+  retina-2000px.jpg 3x,
+  retina-1000px.jpg 2x,
+  retina-500px.jpg 1x "
+src="retina.jpg" >
