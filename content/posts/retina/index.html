@@ -14,17 +14,18 @@ tags:
 Small excercise in how to work with retina images in HTML.
 
 <h2>Picture and source</h2>
+<p>With source you can give a screen width and load a different image for a range of widths. Nor sure if these images are tgen displayed as Retina.</p>
 
 <picture>
-  <source media="(min-width:1000px)" srcset="sea-4000px.jpg">
-  <source media="(min-width:650px)" srcset="sea-2000px.jpg">
-  <source media="(min-width:465px)" srcset="sea-1000px.jpg">
-  <source media="(max-width:465px)" srcset="sea-500px.jpg">
+  <source media="(min-width:1400px)" srcset="sea-4000px.jpg">
+  <source media="(min-width:750px)" srcset="sea-2000px.jpg">
+  <source media="(min-width:510px)" srcset="sea-1000px.jpg">
+  <source media="(max-width:509px)" srcset="sea-500px.jpg">
   <img src="sea.jpg" alt="Sea" style="width:auto;">
 </picture>
 
 <h2>Img and srcset</h2>
-
+<p>This code picks a fixed image. It depends on the sort of screen. When the screen is a retina it will display the image with the 2x indication. The image is then displayed at halve the pixel size. So in this case the browser will choose the 1000 px image and display it with width 500px.</p>
 <img srcset="
   retina-4000px.jpg 4x,
   retina-2000px.jpg 3x,
