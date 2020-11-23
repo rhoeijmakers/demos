@@ -17,6 +17,16 @@ layout = "hyde-master"
     <img src="Amsterdam-JPG.jpg" alt="Amsterdam" style="width:100%">
   </picture>
 
+  <pre>
+    <code>
+  &lt;picture&gt;
+      &ltsource srcset="Amsterdam-WebP.webp" type="image/webp"&gt;
+      &ltsource srcset="Amsterdam-JPG.jpg" type="image/jpeg"&gt;
+      &ltimg src="Amsterdam-JPG.jpg" alt="Amsterdam" style="width:100%"&gt;
+  &lt/picture&gt;
+  </code>
+  </pre>
+
   <h2>AVIF</h2>
 
   <p>If the browser supports AVIF the label on the image will indicate this and a green check will be shown. If the image label says AVIF the browser supports the format, when the label says JPG the browser does not support and falls back on JPG. A
@@ -27,11 +37,21 @@ layout = "hyde-master"
     <img src="Amsterdam-JPG.jpg" alt="Amsterdam" style="width:100%">
   </picture>
 
+<pre>
+  <code>
+  &lt;picture&gt;
+    &lt;source srcset="Amsterdam-AVIF.avif" type="image/avif"&gt;
+    &lt;source srcset="Amsterdam-JPG.jpg" type="image/jpeg"&gt;
+    &lt;img src="Amsterdam-JPG.jpg" alt="Amsterdam" style="width:100%"&gt;
+  &lt;/picture&gt;
+  </code>
+</pre>
+
   <br>
   <br>
   <p>Find more about the image formats WebP, AVIF and JPG here:</p>
   <ul>
-    <li><a href="https://medium.com/@RobertHoeijmakers/webp-and-avif-the-challengers-of-jpg-bea7b9be1044">WebP and AVIF, the challengers of JPG</a></li>
+    <li><a href="https://niksen.site/webp-avif/">WebP and AVIF, the challengers of JPG</a></li>
     <li><a href="https://www.webdialect.nl/blog/avif-webp-jpg">WebP en AVIF, de uitdagers van JPG</a></li>
     <ul>
 
