@@ -1,6 +1,6 @@
 baseURL = "https://demo.niksen.site"
 languageCode = "en-us"
-title = "Demo"
+title = "Niksen Demo"
 description = "Demos by Niksen"
 theme = "mixedpaper"
 enableRobotsTXT = true
