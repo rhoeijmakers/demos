@@ -17,4 +17,4 @@ This all work blazingly fast, is stable and delivers really clean and optimised 
 
 ![Lighthouse score Hugo site](lighthouse.jpg)
 
-<[niksen.site](https://niksen.site)>
+Check out [niksen.site](https://niksen.site) and enjoy decent primers on digital technologies.
