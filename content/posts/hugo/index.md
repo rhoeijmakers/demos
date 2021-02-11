@@ -16,3 +16,5 @@ I build this demo website with Hugo. Hugo is a framework to build a static websi
 This all work blazingly fast, is stable and delivers really clean and optimised code.
 
 ![Lighthouse score Hugo site](lighthouse.jpg)
+
+<[niksen.site](https://niksen.site)>
