@@ -1,0 +1,42 @@
+---
+title: "Screen resolution"
+description: "Script to display screen dimensions"
+date: 2021-02-15T09:09:45+01:00
+publishDate: 2021-02-15T09:09:45+01:00
+author: "Robert Hoeijmakers"
+images: []
+tags:
+- website
+- webdevelopment
+- screen
+---
+<script>
+
+  var swidth = screen.width;
+  var sheight = screen.height;
+  var screenResolution = swidth + "px" + " x " + sheight + "px";
+  document.write("<br>Screen Resolution: " + screenResolution);
+</script>
+
+<div id="result"></div>
+
+<script>
+
+// Defining event listener function
+function displayWindowSize(){
+    // Get width and height of the window excluding scrollbars
+    var w = document.documentElement.clientWidth;
+    var h = document.documentElement.clientHeight;
+
+    // Display result inside a div element
+    document.getElementById("result").innerHTML = "Window width: " + w + "px, " + "Window height: " + h + " px";
+}
+
+// Attaching the event listener function to window's resize event
+window.addEventListener("resize", displayWindowSize);
+
+// Calling the function for the first time
+displayWindowSize();
+
+</script>
+<p><strong>Note:</strong> Please resize the browser window to see it at work.</p>

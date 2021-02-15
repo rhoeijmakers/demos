@@ -1,12 +1,32 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>images on Demo</title>
+    <title>images on Niksen Demo</title>
     <link>https://demo.niksen.site/tags/images/</link>
-    <description>Recent content in images on Demo</description>
+    <description>Recent content in images on Niksen Demo</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 12 Nov 2020 12:15:02 +0000</lastBuildDate><atom:link href="https://demo.niksen.site/tags/images/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 24 Nov 2020 21:08:45 +0100</lastBuildDate><atom:link href="https://demo.niksen.site/tags/images/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>CSS Backgrounds</title>
+      <link>https://demo.niksen.site/posts/cssbackground/</link>
+      <pubDate>Tue, 24 Nov 2020 21:08:45 +0100</pubDate>
+      
+      <guid>https://demo.niksen.site/posts/cssbackground/</guid>
+      <description>.content { background-color: #E5E5F7; opacity: 0.5 ; background-image: radial-gradient(#0d23e9 1px, transparent 1px), radial-gradient(#0d23e9 1px, #E5E5F7 1px); background-size: 40px 40px; background-position: 0 0,20px 20px; }  CSS Background There is this great website that offers a nice range of CSS-backgrounds. You can customize them and download the CSS code for free.
+https://www.magicpattern.design/tools/css-backgrounds/</description>
+    </item>
+    
+    <item>
+      <title>Retina images</title>
+      <link>https://demo.niksen.site/posts/retina/</link>
+      <pubDate>Wed, 18 Nov 2020 21:09:45 +0100</pubDate>
+      
+      <guid>https://demo.niksen.site/posts/retina/</guid>
+      <description>Retina images  Small excercise in how to work with retina images in HTML. Picture and source With source you can give a screen width and load a different image for a range of widths. Nor sure if these images are tgen displayed as Retina.
+    &amp;lt;picture&amp;gt; &amp;ltsource media=&#34;(min-width:1400px)&#34; srcset=&#34;sea-4000px.jpg&#34;&amp;gt; &amp;ltsource media=&#34;(min-width:750px)&#34; srcset=&#34;sea-2000px.jpg&#34;&amp;gt; &amp;ltsource media=&#34;(min-width:510px)&#34; srcset=&#34;sea-1000px.jpg&#34;&amp;gt; &amp;ltsource media=&#34;(max-width:509px)&#34; srcset=&#34;sea-500px.jpg&#34;&amp;gt; &amp;ltimg src=&#34;sea.jpg&#34; alt=&#34;Sea&#34; style=&#34;width:auto;&#34;&amp;gt; &amp;lt/picture   Img, srcset and x This code picks a fixed image.</description>
+    </item>
+    
     <item>
       <title>Browser image support</title>
       <link>https://demo.niksen.site/posts/imagesupport/</link>

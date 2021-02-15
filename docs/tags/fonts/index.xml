@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>fonts on Demo</title>
+    <title>fonts on Niksen Demo</title>
     <link>https://demo.niksen.site/tags/fonts/</link>
-    <description>Recent content in fonts on Demo</description>
+    <description>Recent content in fonts on Niksen Demo</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 27 Oct 2020 21:09:45 +0100</lastBuildDate><atom:link href="https://demo.niksen.site/tags/fonts/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>SVG</title>
+      <title>Scalable Vector Graphics (SVG)</title>
       <link>https://demo.niksen.site/posts/svg/</link>
       <pubDate>Tue, 27 Oct 2020 21:09:45 +0100</pubDate>
       

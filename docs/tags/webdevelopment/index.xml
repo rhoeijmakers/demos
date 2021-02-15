@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>webdevelopment on Niksen Demo</title>
+    <link>https://demo.niksen.site/tags/webdevelopment/</link>
+    <description>Recent content in webdevelopment on Niksen Demo</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 18 Nov 2020 21:09:45 +0100</lastBuildDate><atom:link href="https://demo.niksen.site/tags/webdevelopment/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Retina images</title>
+      <link>https://demo.niksen.site/posts/retina/</link>
+      <pubDate>Wed, 18 Nov 2020 21:09:45 +0100</pubDate>
+      
+      <guid>https://demo.niksen.site/posts/retina/</guid>
+      <description>Retina images  Small excercise in how to work with retina images in HTML. Picture and source With source you can give a screen width and load a different image for a range of widths. Nor sure if these images are tgen displayed as Retina.
+    &amp;lt;picture&amp;gt; &amp;ltsource media=&#34;(min-width:1400px)&#34; srcset=&#34;sea-4000px.jpg&#34;&amp;gt; &amp;ltsource media=&#34;(min-width:750px)&#34; srcset=&#34;sea-2000px.jpg&#34;&amp;gt; &amp;ltsource media=&#34;(min-width:510px)&#34; srcset=&#34;sea-1000px.jpg&#34;&amp;gt; &amp;ltsource media=&#34;(max-width:509px)&#34; srcset=&#34;sea-500px.jpg&#34;&amp;gt; &amp;ltimg src=&#34;sea.jpg&#34; alt=&#34;Sea&#34; style=&#34;width:auto;&#34;&amp;gt; &amp;lt/picture   Img, srcset and x This code picks a fixed image.</description>
+    </item>
+    
+    <item>
+      <title>Hugo framework for building websites</title>
+      <link>https://demo.niksen.site/posts/hugo/</link>
+      <pubDate>Sun, 15 Nov 2020 21:09:45 +0100</pubDate>
+      
+      <guid>https://demo.niksen.site/posts/hugo/</guid>
+      <description>Hugo framework I build this demo website with Hugo. Hugo is a framework to build a static website using Markdown and/or HTML-files. In order for this to work I had to install Hugo on my Mac and then find a template to layout the content. With this you can build your site locally and then commit to Github. I then connected Github with Netlify which builds and publishes the site to the web.</description>
+    </item>
+    
+    <item>
+      <title>Screen resolution</title>
+      <link>https://demo.niksen.site/posts/resolution/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://demo.niksen.site/posts/resolution/</guid>
+      <description>function getViewportWidth() { if (window.innerWidth) { return window.innerWidth; } else if (document.body &amp;&amp; document.body.offsetWidth) { return document.body.offsetWidth; } else { return 0; } } function getViewportHeight() { if (window.innerHeight) { return window.innerHeight; } else if (document.body &amp;&amp; document.body.offsetHeight) { return document.body.offsetHeight; } else { return 0; } } var tellMeTheSizes=function() { document.getElementById(&#34;viewportwidth&#34;).innerHTML = getViewportWidth() + &#34;px&#34;; document.getElementById(&#34;viewportheight&#34;).innerHTML = getViewportHeight() + &#34;px&#34;; document.getElementById(&#34;resolutionheight&#34;).innerHTML = screen.height + &#34;px&#34;; document.getElementById(&#34;resolutionwidth&#34;).innerHTML = screen.width + &#34;</description>
+    </item>
+    
+  </channel>
+</rss>

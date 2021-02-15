@@ -1,12 +1,41 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Demo</title>
+    <title>Niksen Demo</title>
     <link>https://demo.niksen.site/</link>
-    <description>Recent content on Demo</description>
+    <description>Recent content on Niksen Demo</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 12 Nov 2020 12:15:02 +0000</lastBuildDate><atom:link href="https://demo.niksen.site/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 24 Nov 2020 21:08:45 +0100</lastBuildDate><atom:link href="https://demo.niksen.site/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>CSS Backgrounds</title>
+      <link>https://demo.niksen.site/posts/cssbackground/</link>
+      <pubDate>Tue, 24 Nov 2020 21:08:45 +0100</pubDate>
+      
+      <guid>https://demo.niksen.site/posts/cssbackground/</guid>
+      <description>.content { background-color: #E5E5F7; opacity: 0.5 ; background-image: radial-gradient(#0d23e9 1px, transparent 1px), radial-gradient(#0d23e9 1px, #E5E5F7 1px); background-size: 40px 40px; background-position: 0 0,20px 20px; }  CSS Background There is this great website that offers a nice range of CSS-backgrounds. You can customize them and download the CSS code for free.
+https://www.magicpattern.design/tools/css-backgrounds/</description>
+    </item>
+    
+    <item>
+      <title>Retina images</title>
+      <link>https://demo.niksen.site/posts/retina/</link>
+      <pubDate>Wed, 18 Nov 2020 21:09:45 +0100</pubDate>
+      
+      <guid>https://demo.niksen.site/posts/retina/</guid>
+      <description>Retina images  Small excercise in how to work with retina images in HTML. Picture and source With source you can give a screen width and load a different image for a range of widths. Nor sure if these images are tgen displayed as Retina.
+    &amp;lt;picture&amp;gt; &amp;ltsource media=&#34;(min-width:1400px)&#34; srcset=&#34;sea-4000px.jpg&#34;&amp;gt; &amp;ltsource media=&#34;(min-width:750px)&#34; srcset=&#34;sea-2000px.jpg&#34;&amp;gt; &amp;ltsource media=&#34;(min-width:510px)&#34; srcset=&#34;sea-1000px.jpg&#34;&amp;gt; &amp;ltsource media=&#34;(max-width:509px)&#34; srcset=&#34;sea-500px.jpg&#34;&amp;gt; &amp;ltimg src=&#34;sea.jpg&#34; alt=&#34;Sea&#34; style=&#34;width:auto;&#34;&amp;gt; &amp;lt/picture   Img, srcset and x This code picks a fixed image.</description>
+    </item>
+    
+    <item>
+      <title>Hugo framework for building websites</title>
+      <link>https://demo.niksen.site/posts/hugo/</link>
+      <pubDate>Sun, 15 Nov 2020 21:09:45 +0100</pubDate>
+      
+      <guid>https://demo.niksen.site/posts/hugo/</guid>
+      <description>Hugo framework I build this demo website with Hugo. Hugo is a framework to build a static website using Markdown and/or HTML-files. In order for this to work I had to install Hugo on my Mac and then find a template to layout the content. With this you can build your site locally and then commit to Github. I then connected Github with Netlify which builds and publishes the site to the web.</description>
+    </item>
+    
     <item>
       <title>Browser image support</title>
       <link>https://demo.niksen.site/posts/imagesupport/</link>
@@ -17,7 +46,7 @@
     </item>
     
     <item>
-      <title>SVG</title>
+      <title>Scalable Vector Graphics (SVG)</title>
       <link>https://demo.niksen.site/posts/svg/</link>
       <pubDate>Tue, 27 Oct 2020 21:09:45 +0100</pubDate>
       
@@ -54,9 +83,17 @@ Summer Autumn Winter Spring  if (&#39;loading&#39; in HTMLImageElement.prototype
       <pubDate>Tue, 28 May 2019 00:00:00 +0000</pubDate>
       
       <guid>https://demo.niksen.site/about/</guid>
-      <description>Written in Go, Hugo is an open source static site generator available under the Apache License 2.0. Hugo supports TOML, YAML, and JSON data file types, Markdown and HTML content files and uses shortcodes to add rich content. Other notable features are taxonomies, multilingual mode, image processing, custom output formats, HTML/CSS/JS minification and support for Sass SCSS workflows.
-Hugo makes use of a variety of open source projects including:
- Blackfriday Chroma Smartcrop Cobra Viper  Hugo is ideal for blogs, corporate websites, creative portfolios, online magazines, single page applications or even a website with thousands of pages.</description>
+      <description>About demo.niksen.site This is a demo site for &amp;lt;niksen.site&amp;gt;.
+Here I test code in order to demo it. And I experimented with the setup of Hugo and Netlify, together with Github and Markdown files.</description>
+    </item>
+    
+    <item>
+      <title>Screen resolution</title>
+      <link>https://demo.niksen.site/posts/resolution/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://demo.niksen.site/posts/resolution/</guid>
+      <description>function getViewportWidth() { if (window.innerWidth) { return window.innerWidth; } else if (document.body &amp;&amp; document.body.offsetWidth) { return document.body.offsetWidth; } else { return 0; } } function getViewportHeight() { if (window.innerHeight) { return window.innerHeight; } else if (document.body &amp;&amp; document.body.offsetHeight) { return document.body.offsetHeight; } else { return 0; } } var tellMeTheSizes=function() { document.getElementById(&#34;viewportwidth&#34;).innerHTML = getViewportWidth() + &#34;px&#34;; document.getElementById(&#34;viewportheight&#34;).innerHTML = getViewportHeight() + &#34;px&#34;; document.getElementById(&#34;resolutionheight&#34;).innerHTML = screen.height + &#34;px&#34;; document.getElementById(&#34;resolutionwidth&#34;).innerHTML = screen.width + &#34;</description>
     </item>
     
   </channel>
