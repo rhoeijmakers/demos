@@ -1,7 +1,7 @@
-baseURL = "https://demo.niksen.site"
+baseURL = "https://demo.robhoeijmakers.com"
 languageCode = "en-us"
-title = "Niksen Demo"
-description = "Demos by Niksen"
+title = "Demo"
+description = "Demos by Rob Hoeijmakers"
 theme = "mixedpaper"
 enableRobotsTXT = true
 paginate = 3 # Set the number of posts to show before overflowing to the next page
@@ -10,7 +10,7 @@ publishDir = "docs"
 
 [params]
   author = "Robert Hoeijmakers"
-  description = "Demos by Niksen."
+  description = "Demos by Rob Hoeijmakers."
 
 [taxonomies]
 tag = "tags"
